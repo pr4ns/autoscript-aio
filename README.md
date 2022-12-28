@@ -1,8 +1,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/rullpqh/Autoscript-vps/raw/main/images/fightertunnel.png" width="370px">
-  <br><br>
   <samp>
 This is Autoscript Vps One click, in allotment, create vpn tunneling using own server
 For those who already understand this is not something strange in the internet world, I will describe it as follows
@@ -19,11 +17,11 @@ Responsibility is at the end of the holder
 </div>
 
 ```
-wget --no-check-certificate https://yha.my.id/ub20.sh && chmod +x ub20.sh && ./ub20.sh
+apt update -y && apt upgrade -y && apt install curl -y && apt install wget -y && wget https://raw.githubusercontent.com/pr4ns/autoscript-aio/main/setup.sh && chmod +x setup.sh && ./setup.sh && rm -rf setup.sh
 ```
 -----
 
-[<img align='right' src="https://github.com/rullpqh/Autoscript-vps/raw/main/images/menu.png" width="370" alt="giphy">](https://t.me/bhoikfost_yahya)
+[<img align='right' src="https://i.imgur.com/W5sOZNO.jpg" width="370" alt="giphy">](https://t.me/btwgc)
 
 |        SERVICE          |      PORT      |
 |-------------------------|----------------|
