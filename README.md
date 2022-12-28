@@ -5,7 +5,7 @@
 This is Autoscript Vps One click, in allotment, create vpn tunneling using own server
 For those who already understand this is not something strange in the internet world, I will describe it as follows
 Responsibility is at the end of the holder
-     <br><br>Contact me on <a href="https://t.me/btwgc">Telegram</a>, or <a href="bhoikfostyahya@gmail.com">Send an Email</a>
+     <br><br>Contact me on <a href="https://t.me/btwgc">Telegram</a>
   </samp>
 </p>
 
@@ -40,17 +40,29 @@ apt update -y && apt upgrade -y && apt install curl -y && apt install wget -y &&
 -----
 ## _Server Features :_ 
 > `Limit User Xray`
+>
 > `Show Quota User Xray`
+>
 > `Multi Path & Support Dynamic Path`
+>
 > `XrayDNS 2022`
+>
 > `Timezone Asia/Jakarta (GMT +7)`
+>
 >  `Autoreboot On 05:00 GMT +7`
+>
 >  `Auto Delete Expired Account`
+>
 >  `Fully automatic script` 
+>
 >  `Admin Control`  
+>
 >  `Backup Data & Restore Data`
+>
 >  `Fully automatic script` 
+>
 >  `Full Orders For Various Services`  
+>
 >  `Link Account Crate Protocol`
 
 # *Tutorial Configurasi Cloudflare*
